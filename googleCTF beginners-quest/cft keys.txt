@@ -1,0 +1,8 @@
+LKCMP2KK
+quest 1: CTF{IJustHopeThisIsNotOnShodan}
+quest 2: CTF{BCFIJ}
+quest 3: CTF{cbe138a2cd7bd97ab726ebd67e3b7126707f3e7f}
+quest 4: CTF{be65dfa2355e5309808a7720a615bca8c82a13d7}
+quest 5: CTF{n3v3r_3ver_ev3r_use_r4nd0m}
+quest 6: CTF{pl34s3_n0_m04r}
+quest 7: CTF{34sy_RS4_1s_e4sy_us3}
